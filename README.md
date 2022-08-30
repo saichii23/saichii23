@@ -4,7 +4,7 @@
 - 🌍  I'm based in Sorsogon, Philippines
 - 👀  I’m interested in sports, music and coding
 - 🌱  I’m currently learning React JS
-- 🖥️  See my portfolio at 
+- 🖥️  See my portfolio at https://saichii23.github.io/MyPortfolio/
 - ✉️  You can contact me at gellie23cano@gmail.com
 
 ### Skills
